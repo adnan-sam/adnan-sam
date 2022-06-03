@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adnan-sam
+- 👋 Hi, I’m Adnan Sameer
 - 👀 I’m interested in Development field
-- 🌱 I’m currently learning Data Structure and Algorithm, Web Development and having a keen knowledge about Android Development
+- 🌱 I’m currently pursuing B.Tech and learning Data Structure and Algorithm, Web Development and having a keen knowledge about Android Development
 - 💞️ I’m looking to collaborate on contribution in Design, UI, FrontEnd and Backend.
 - 📫 Reach me via LinkedIn or Gmail - adnansameer400@gmail.com
 
