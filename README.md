@@ -4,11 +4,11 @@
  </p>
 
 # 💫 About Me:
-👨🏽‍💻 A passionate Web Developer<br> 🎓I'm a 3rd year CSE student at MSIT<br>🌱 Currently learning Data Structures and Algorithms<br>⚡ A secret: I'm a Photographer.
+👨🏽‍💻 A passionate Web Developer<br> 🎓I'm a 3rd year CSE student at MSIT<br>🏹 Proficient in Java | C/C++ | XML<br>🌱 Currently learning Data Structures and Algorithms<br>⚡ A secret: I'm a Photographer.<br>📫 You can reach out to me here: adnansameer400@gmail.com<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-sameer-199ba1223/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adnan_sam_) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/adnan_sam_/) [![GFG](https://img.shields.io/badge/-Geeks%20for%20Geeks-brightgreen)](https://auth.geeksforgeeks.org/user/adnanscse2020/practice) [![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-orange)](https://www.codingninjas.com/codestudio/profile/a835caf6-3900-4dc0-8cc7-519c8e258d9f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-sameer-199ba1223/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adnan_sam_) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/adnan_sam_/) [![GFG](https://img.shields.io/badge/-Geeks%20for%20Geeks?style=for-the-badge&logo=LeetCode&logoColor=brightgreen)](https://auth.geeksforgeeks.org/user/adnanscse2020/practice) [![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-orange)](https://www.codingninjas.com/codestudio/profile/a835caf6-3900-4dc0-8cc7-519c8e258d9f)
 <div align="center" width=100%> 
 
 <!--[![LeetCode Stats](https://leetcard.jacoblin.cool/adnan_sam_?theme=nord&animation=true&font=Roboto%20Mono)](https://leetcode.com/adnan_sam_/)-->
