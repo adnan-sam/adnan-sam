@@ -26,7 +26,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=adnan-sam&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adnan-sam&theme=prussian&hide_border=true)<br/>
-username=adnan-sam&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<!-- username=adnan-sam&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
 </div>
 
@@ -35,9 +35,9 @@ username=adnan-sam&theme=prussian&hide_border=true&include_all_commits=true&coun
 ![](https://github-profile-trophy.vercel.app/?username=adnan-sam&theme=dracula&no-frame=true&no-bg=false&margin-w=4)-->
  <div align = "center">
  
-**Visitors Count** 
+<!-- **Visitors Count** 
 
-![VisitorCount](https://profile-counter.glitch.me/{adnan-sam}/count.svg) </div>
+![VisitorCount](https://profile-counter.glitch.me/{adnan-sam}/count.svg) </div> -->
 
 # ⭐ Stats 
 <div align="center">
