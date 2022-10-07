@@ -18,7 +18,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adnansameer400)
 
 <div align="center" width=100%>
- ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+<!--  ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool) -->
 </div>
 
 
