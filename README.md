@@ -4,7 +4,7 @@
  </p>
 
 # 💫 About Me:
-👨🏽‍💻 A passionate Web Developer<br> 🎓I'm a 3rd year CSE student at MSIT<br>🏹 Proficient in Java | C/C++ | XML<br>🌱 Currently learning Data Structures and Algorithms<br>⚡ A secret: I'm a Photographer.<br>📫 You can reach out to me here: [LinkedIn](https://www.linkedin.com/in/adnan-sameer-199ba1223/)<br>
+👨🏽‍💻 A passionate Web Developer<br> 🎓I'm a 3rd year CSE student at MSIT<br>🏹 Proficient in Java | C/C++ | JavaScript<br>🌱 Currently learning Data Structures and Algorithms<br>⚡ A secret: I'm a Photographer.<br>📫 You can reach out to me here: [LinkedIn](https://www.linkedin.com/in/adnan-sameer-199ba1223/)<br>
 
 
 ## 🌐 Socials:
