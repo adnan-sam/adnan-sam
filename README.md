@@ -17,7 +17,7 @@
 [![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-f96b24?style=for-the-badge&logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/a835caf6-3900-4dc0-8cc7-519c8e258d9f)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adnansameer400)
 <div align="center" width=100%> 
-<!--[![LeetCode Stats](https://leetcard.jacoblin.cool/adnan_sam_?theme=nord&animation=true&font=Roboto%20Mono)](https://leetcode.com/adnan_sam_/)-->
+[![LeetCode Stats]([https://leetcard.jacoblin.cool/adnan_sam_?theme=nord&animation=true&font=Roboto%20Mono](https://leetcode.com/adnan_sam_/))](https://leetcode.com/adnan_sam_/)
 </div>
 
 
