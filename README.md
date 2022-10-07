@@ -4,12 +4,11 @@
  </p>
 
 # 💫 About Me:
-👨🏽‍💻 A passionate Web Developer<br> 🎓I'm a 3rd year CSE student at MSIT<br>🏹 Proficient in Java | C/C++ | XML<br>🌱 Currently learning Data Structures and Algorithms<br>⚡ A secret: I'm a Photographer.<br>📫 You can reach out to me here: [Gmail](mailto:adnansameer400@gmail.com)<br>
+👨🏽‍💻 A passionate Web Developer<br> 🎓I'm a 3rd year CSE student at MSIT<br>🏹 Proficient in Java | C/C++ | XML<br>🌱 Currently learning Data Structures and Algorithms<br>⚡ A secret: I'm a Photographer.<br>📫 You can reach out to me here: [LinkedIn](https://www.linkedin.com/in/adnan-sameer-199ba1223/)<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-sameer-199ba1223/)
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adnan_sam_) 
 
 ## 👨🏻‍💻 Coding Profiles
