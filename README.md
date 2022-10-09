@@ -38,9 +38,10 @@
 
 </div>
 
-<!--## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=adnan-sam&theme=dracula&no-frame=true&no-bg=false&margin-w=4)-->
+## 🏆 GitHub Trophies
+<!-- Holopin for participating in Hacktober Fest -->
+<!--[![@adnansam2001's Holopin board](https://holopin.io/api/user/board?user=adnansam2001)](https://holopin.io/@adnansam2001) -->
+![](https://github-profile-trophy.vercel.app/?username=adnan-sam&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
  <div align = "center">
  
 <!-- **Visitors Count** 
